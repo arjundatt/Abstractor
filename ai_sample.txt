@@ -1,0 +1,211 @@
+var words2;
+var sentence;
+var final_words_arr;
+var allofit;
+var priority;
+var sen_pri=new Array();
+function loading(){
+$('#loading').show();
+}
+function summarize(){
+//$('#loading').show();
+if(document.getElementById('myTable')){
+$('#myTable').remove();
+}
+var allofit1= document.getElementById('pickup_text').value;
+allofit=allofit1.replace(/\s+/g, " ");  //replaces all extra white spaces(space, newline, tab etc.) with a single white space
+var words=new Array();
+var i,j=0,z=0;
+var trick=0;
+var number=0;
+reg=/[^\[\s,;\/=|\+\*()!:?.{}\]-]+/g;  //separates all the words from special characters and white spaces
+words2=allofit.match(reg);
+if(words2===null)
+return
+window.dynamic_cloud();
+$('#loading').hide(); 
+}
+function dynamic_cloud(){  //this function dynamically creates a tag cloud in a web page 
+
+//stock is a list of stop words, more words can be added to this whenever required
+var stock = new Array("~","^","[","]","'","the","that","they","also","it","or","he","had","this","at","was","his","from","for" ,"by","with","is", "and" ,"of", "a" ,"approved","are", "in", "as" ,"to" ,"by","which","on","only","into","has","all","their","an","be","then","being","we","0","1","2","3","4","5","6","7","8","9","have","not","if","these","were","a","about","above","across","after","again","against","all","almost","alone","along","already","also","although","always","among","an","and","another","any","anybody","anyone","anything","anywhere","are","area","areas","around","as","ask","asked","asking","asks","at","away","b","back","backed","backing","backs","be","became","because","become","becomes","been","before","began","behind","being","beings","better","between","big","both","but","by","c","came","can","cannot","case","cases","certain","certainly","clear","clearly","come","could","d","did","differ","different","differently","do","does","done","down","down","downed","downing","downs","during","e","each","early","either","enough","even","evenly","ever","every","everybody","everyone","everything","everywhere","f","face","faces","fact","facts","far","felt","few","find","finds","first","for","four","from","full","fully","further","furthered","furthering","furthers","g","gave","general","generally","get","gets","give","given","gives","go","going","good","goods","got","great","greater","greatest","group","grouped","grouping","groups","h","had","has","have","having","he","her","here","herself","high","high","high","higher","highest","him","himself","his","how","however","i","if","in","interest","interested","interesting","interests","into","is","it","its","itself","j","just","k","keep","keeps","kind","knew","know","known","knows","l","large","largely","last","later","latest","least","less","let","lets","like","likely","long","longer","longest","m","made","make","making","man","many","may","me","member","members","men","might","more","most","mostly","mr","mrs","much","must","my","myself","n","necessary","need","needed","needing","needs","never","new","new","newer","newest","next","no","nobody","non","noone","not","nothing","now","nowhere","number","numbers","o","of","off","often","old","older","oldest","on","once","one","only","open","opened","opening","opens","or","order","ordered","ordering","orders","other","others","our","out","over","p","page","part","parted","parting","parts","per","perhaps","place","places","present","presented","presenting","presents","put","puts","q","quite","r","rather","really","related","right","right","room","rooms","s","said","same","saw","say","says","second","seconds","see","seem","seemed","seeming","seems","sees","several","shall","she","should","show","showed","showing","shows","side","sides","simple","since","small","smaller","smallest","so","some","somebody","someone","something","somewhere","state","states","still","still","such","sure","t","take","taken","than","that","the","their","them","then","there","therefore","these","they","thing","things","think","thinks","this","those","though","thought","thoughts","three","through","thus","to","today","together","too","took","toward","turn","turned","turning","turns","two","u","under","until","up","upon","us","use","used","uses","v","very","w","want","wanted","wanting","wants","was","way","ways","we","well","wells","went","were","what","when","where","whether","which","while","who","whole","whose","why","will","with","within","without","work","worked","working","works","would","x","y","year","years","yet","you","young","younger","youngest","your","yours","z","[edit]","called","http","www","[[","]]","&","+");
+final_words_arr=new Array(); //array of words from the document
+var zed=new Array(); //frequency of various words in the document
+var w=0;
+var deaf=new Array(); //deaf= array of matched words
+var doub,doub1;
+
+for(var i=0;i<words2.length;i++){//stop words removal
+reg= /[a-z]/;
+if(words2[i].match(reg)===null)
+continue;
+checkin=0;
+for(var j=0;j<stock.length;j++)
+if(words2[i].toUpperCase()==stock[j].toUpperCase())
+checkin=1;
+
+if(words2[i]==null||words2[i]=="\n"||checkin==1)
+continue;
+deaf[w++]=words2[i];
+}
+
+j=0;
+for(i=0;i<deaf.length;i++){
+zed[i]=1;
+if(i==0)
+final_words_arr[j++]=deaf[i];
+else{
+k=0;
+for(a=0;a<final_words_arr.length;a++){
+if(final_words_arr[a].toUpperCase()==deaf[i].toUpperCase()){
+k++;
+which=a;}
+}
+
+
+if(k!=0)
+zed[which]++;
+
+if(k==0)
+final_words_arr[j++]=deaf[i];
+}
+}
+var max=0;
+var min=100000;
+for(i=0;i<zed.length;i++){
+if(zed[i]>=max){
+max=zed[i];
+doub=final_words_arr[i];
+}
+if(zed[i]<min){
+min=zed[i];
+doub1=final_words_arr[i];
+}
+}
+priority=new Array();
+for(i=0;i<final_words_arr.length;i++){//main for. This loop is responsible for dynamically appending words
+var s; 
+var f=100;
+//if(zed[i]>min){
+priority[i]= Math.floor((f*(zed[i]-min))/(max-min)); //mathematical formula for setting the frequency of different words in the document
+//alert(final_words_arr[i]+"!!!!"+priority[i]);
+//}
+}
+window.bs(0,priority.length-1);
+var allofit1= document.getElementById('pickup_text').value;
+reg=/[^!?.]+\s/g; 
+sentence=allofit.match(reg);
+
+var fg;
+for(i=0;i<sentence.length;i++){
+sen_pri[i]=0;
+for(j=0;j<30;j++){
+reg= new RegExp(final_words_arr[j],"ig");
+fg=sentence[i].match(reg);
+if(fg!=null){
+//alert(sentence[i]+"|||||"+final_words_arr[j]);
+for(d=1;d<=fg.length;d++)
+sen_pri[i]=sen_pri[i]+ priority[j];
+}
+}
+}
+window.final_sum();
+
+/*var table = document.getElementById("myTable");
+ for(i=0;i<sentence.length;i++){
+ var rowCount = table.rows.length;
+            var row = table.insertRow(rowCount);
+var cell = row.insertCell(0);
+     cell.innerHTML= sen_pri[i];
+var cell1 = row.insertCell(1);
+     cell1.innerHTML= sentence[i];
+}*/
+}
+
+function qs(priority_lc,low,high){
+var pos;
+if(low<high)
+{
+pos=partition(priority_lc,low,high+1);
+qs(low,pos-1);
+qs(pos+1,high);
+}
+return priority_lc;
+}
+function bs(){
+for(var x=0;x<priority.length;x++)
+for(var y=0;y<priority.length-x;y++)
+if(priority[y+1]>priority[y])
+{
+var temp;
+temp=priority[y+1];
+priority[y+1]=priority[y];
+priority[y]=temp;
+
+temp=final_words_arr[y+1];
+final_words_arr[y+1]=final_words_arr[y];
+final_words_arr[y]=temp;
+
+}
+}
+function partition(priority_lc,low,high){
+
+var v=parseInt(priority_lc[low]),i=low,j=high;
+
+do{
+do{
+i++;
+}
+while(parseInt(priority_lc[i])<v);
+do{
+j--;}
+while(parseInt(priority_lc[j])>v);
+if(i<j)
+swap(priority_lc,i,j);
+}
+while(i<j);
+priority_lc[low]=priority_lc[j];
+priority_lc[j]=v;
+return j;}
+
+function swap(priority_lc,cc, vv){
+var temp;
+temp=priority_lc[cc];
+priority_lc[cc]=priority_lc[vv];
+priority_lc[vv]=temp;
+
+temp=final_words_arr[cc];
+final_words_arr[cc]=final_words_arr[vv];
+final_words_arr[vv]=temp;
+}
+
+function final_sum(){
+var z=0;
+var buffer=new Array();
+var reg=new RegExp("conclusion|conclude|important|therefore|infer|inference|importantly|concluding|defined|definition","ig");
+for(var x=0;x<sentence.length;x++)
+{
+if(sentence[x].match(reg)){
+//alert("sentence="+sentence[x]);
+sen_pri[x]+=350;
+}
+if(sen_pri[x]>350){
+buffer[z]=new Array();
+buffer[z][0]=sen_pri[x];
+buffer[z++][1]=sentence[x];
+}}
+var table = document.createElement("table");
+table.setAttribute("id","myTable");
+document.getElementById("summary_div").appendChild(table);
+//alert(sentence.length);
+ for(var i=0;i<buffer.length;i++){
+ var rowCount = table.rows.length;
+            var row = table.insertRow(rowCount);
+/*var cell = row.insertCell(0);
+     cell.innerHTML= "<b>"+buffer[i][0]+"</b>";
+*/
+	 var cell1 = row.insertCell(0);
+     cell1.innerHTML= "<b>"+(i+1)+". </b>"+buffer[i][1];
+}
+
+}

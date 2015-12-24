@@ -1,0 +1,8 @@
+1. Text retreival
+2. Removing Stop words.
+3. Word Frequency calculation.
+4. Sentence segmentation
+5. Extracting proper nouns - Starting with capital and not in common list of words and Font semantics.
+6. Sentence scoring -  word scores, proper noun scores, font semantics, emphasis words.
+7. Optimum score calculation for sentence.
+8. Display of summary.

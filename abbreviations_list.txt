@@ -1,0 +1,708 @@
+abbrev.	abbreviation (of)
+Abbrev.	abbreviation(s)
+Abd.	Aberdeen
+Aberd.	Aberdeen
+Aberdeensh.	Aberdeenshire
+abl.	ablative
+Abol.	abolition
+Aborig.	aboriginal
+Abr.	abridged
+Abridg.	abridged
+Absol.	absolute
+Abstr.	abstract(s)
+Acad.	academia, academy, academic(al)
+acc.	according (to)
+Accs.	accounts
+Acct.	account
+Accts.	accounts
+A.D.	Anno Domini
+Add.	addendum, addenda
+Addr.	address
+adj.	adjective, adjectival
+Adm.	admiral
+Adm.	admiralty
+Admin.	administration, administrative
+Admir.	admiralty
+Admon.	admonition
+adv.	adverb, adverbial(ly)
+Adv.	advanced
+Adv.	advances
+Adv.	adventure(s)
+Adv.	advices
+Adv.	advocate
+Advert.	advertisement
+Advt.	advertisement
+Advts.	advertisements
+Aerodynam.	aerodynamics
+Aeronaut.	aeronautics, aeronautical
+Aff.	affairs
+Affect.	affecting
+Affect.	affection(s)
+Afr.	Africa(n)
+Agric.	agriculture, agricultural
+Alg.	algebra
+Alleg.	allegiance
+Alph.	alphabet, alphabetical
+alt.	alteration
+a.m.	before noon
+Anc.	ancient
+Anecd.	anecdotes
+Ang.	Anglian
+Angl.	Anglian
+Anglo-Ind.	Anglo-Indian
+Anim.	animal(s)
+Ann.	annal(s)
+Ann.	annual
+Anniv.	anniversary
+Annot.	annotation
+Anon.	(in author names) Anonymous
+Answ.	answer
+Ant.	antiquities
+Anthrop.	anthropology
+Anthropol.	anthropology, anthropological
+Antiq.	antiquity, antiquities
+app.	application
+Appl.	applied
+Apr.	April
+arch.	archaic
+Arch.	architecture
+Arch.	archive(s)
+Arith.	arithmetic
+Arithm.	arithmetic, arithmetical
+Arrangem.	arrangement
+art.	article
+Artic.	articulation
+Artific.	artificial
+Artill.	artillery
+Assemb.	assembly, assemblies
+Assoc.	association
+Assoc. Football	Association Football
+Astr.	astronomy
+Astrol.	astrology
+Astron.	astronomy, astronomic(al)
+attrib.	attributive(ly)
+Attrib.	attribute(s)
+Aug.	August
+Austral.	Australia(n)
+Auth.	author(s)
+Autobiog.	autobiography
+Autobiogr.	autobiography, autobiographic(al)
+B.C.	Before Christ
+B.C.	British Columbia
+bef.	before
+Bel & Dr.	(in the Apocrypha) Bel and the Dragon
+Belg.	Belgian
+betw.	between
+Bibliogr.	bibliography
+Biochem.	biochemistry, biochemical
+Biog.	biography
+Biogr.	biography, biographic(al)
+Biol.	biology, biologicalCal.	calendar
+Calc.	calculus
+Calend.	calendar
+Calif.	California
+Calligr.	calligraphy
+Camb.	Cambridge
+Cambr.	Cambridge
+Campanol.	campanology
+Canad.	Canadian
+Canterb.	Canterbury
+Capt.	captain
+Cartogr.	cartography, cartographic(al)
+cent.	century
+Cent.	central
+Cent.	century
+Ceram.	ceramics
+Cert.	certificate
+Certif.	certificate
+Char.	character
+Charac.	character
+Chas.	Charles
+Chem.	chemistry, chemical
+Chr.	Christian
+Chr.	(in the Bible) Chronicles
+Chron.	chronology, chronicle
+Chron.	(in the Bible) Chronicles
+Chronol.	chronology
+Chrons.	chronicles
+Cinematogr.	cinematography, cinematographic(al)
+Circ.	circle
+cl.	clause
+Cl.	club
+Class. Antiq.	classical antiquities
+Class.	classical
+Classif.	classification
+Col.	colonel
+Col.	(in the Bible) Colossians
+Coll.	collected, collection
+Coll.	college
+Com.	common
+Com.	commission
+Commerc.	commercial
+Commiss.	commission
+Commonw.	commonwealth
+Communic.	communication(s)
+comp.	comparative
+comp.	compound, composition
+Comp.	companion
+Comp.	company
+Compan.	companion(s)
+Comp. Anat.	comparative anatomy
+compar.	comparative
+Compar.	comparative
+compl.	complement
+Compl.	complete
+Compos.	composition
+conc.	concerning
+Conc.	concise
+Conch.	conchology
+Concl.	conclusion
+concr.	concrete(ly)
+Conf.	conference
+Conf.	confession
+Confid.	confidential
+Confl.	conflict
+Congr.	congress
+conj.	conjugation
+conj.	conjunction
+Conn.	Connecticut
+cons.	consonant
+Consc.	conscience
+const.	construction, construed with
+Constit.	constitution(al)
+Constr.	construction
+Contemp.	contemporary
+Contrib.	contribution
+Conv.	convention
+Convent.	convention
+Conversat.	conversation
+Convoc.	convocation
+Cornw.	Cornwall
+Coron.	coronation
+Corr.	correspondence
+corresp.	corresponding (to)
+Corresp.	correspondence
+Counc.	council
+Crim.	criminal
+Crim. Law	criminal law
+Cryptogr.	cryptography
+Crystallogr.	crystallography
+Ct.	count
+Ct.	court
+D.C.	District of Columbia
+Dec.	December
+Declar.	declaration
+Ded.	dedicated
+def.	definite
+Def.	defence
+Deliv.	deliverance
+dem.	demonstrative
+Demonstr.	demonstration
+Dep.	department
+Dep.	deputy
+Dept.	department
+deriv.	derivative (in etymologies)
+derog.	derogatory
+Descr.	description, descriptive
+Dict.	dictionary
+Diffic.	difficult, difficulty
+Direct.	direction
+Dis.	disease(s)
+Disc.	discourse
+Discipl.	discipline
+Discov.	discovery
+Discrim.	discrimination
+Diss.	dissertation
+Dist.	district
+Distemp.	distemper
+Distill.	distilling
+Distrib.	distribution
+Div.	divinity
+Div.	division
+Divers.	diversity
+Doc.	document(s)
+Doctr.	doctrine
+Domest.	domestic
+Dr. doctor
+Durh.	Durham
+dyslog.	dyslogistic
+Ecol.	ecology, ecological
+Econ.	economics, economic(al)
+ed.	edition
+Educ.	education, education(al)
+Electr.	electricity, electric(al)
+Electr. Engin.	electrical engineering
+Elem.	element(s), elementary
+Emb.	embassy
+Encycl.	encyclopaedia, encyclopaedic
+Encycl. Brit.	Encyclopaedia Britannica
+Encycl. Metrop.	Encyclopaedia Metropolitana
+Eng.	England, English
+Engin.	engineering
+Englishw.	Englishwomen
+Enq.	enquiry
+Ent.	entomology, entomological
+Enthus.	enthusiasm
+Entom.	entomology, entomological
+Entomol.	entomology, entomological
+Equip.	equipment
+Er. Engineer
+esp.	especially
+Essent.	essential
+Establ.	establishment
+Esth.	(in the Bible) Esther
+Ethnol.	ethnology
+etym.	etymology
+etymol.	etymological(ly)
+Etymol.	etymology, etymological
+euphem.	euphemistic(ally)
+Eval.	evaluation
+Even.	evening
+Evid.	evidence
+Evol.	evolution, evolutionary
+exc.	except
+Exch.	exchange
+Exec.	executive
+Exhib.	exhibition, exhibit(s)
+Exped.	expedition
+Exper.	experiment, experimental
+Explan.	explanation
+Explic.	explication
+Explor.	exploration
+Expos.	exposition, expositoryFeb.	February
+fem.	feminine
+Ff.	folios
+Fifesh.	Fifeshire
+Footpr.	footprint
+Fortif.	fortification
+Fortn.	fortnightly
+Fr.	French
+Fr.	from
+Fragm.	fragment(s)
+Fratern.	fraternity
+freq.	frequently
+Friendsh.	friendship
+Fund.	fundamental(s)
+Furnit.	furniture
+fut.	future
+Gastron.	gastronomy
+Gaz.	gazette
+Gd.	good
+gen.	general(ly)
+Gen.	general
+Geo.	George
+Geog.	geography
+Geogr.	geography, geographic(al)
+Geol.	geology, geologic(al)
+Geom.	geometry, geometric(al)
+Ger.	German
+Glos.	Gloucestershire
+Gloss.	glossary
+Glouc.	Gloucestershire
+Gloucestersh.	Gloucestershire
+Gov.	government
+Govt.	government
+Gr.	grammar
+Gram.	grammar
+Gramm. Analysis	grammatical analysis
+Gynaecol.	gynaecology
+Heb.	Hebrew
+Heb.	(in the Bible) Hebrews
+Hebr.	(in the Bible) Hebrews
+Hen.	Henry
+Her.	heraldry
+Herb.	herbalism
+hist.	historical
+Hist.	history, historic(al)
+Histol.	histology, histologic(al)
+Hort.	horticulture, horticultural
+Hosp.	hospital
+Husb.	husbandry
+Hydraul.	hydraulic
+Hydrol.	hydrology, hydrological
+Ideol.	ideology, ideological
+Imag.	imaginary, imagination
+imit.	imitative
+imp.	important
+Ind.	India(n)
+indef.	indefinite
+indic.	indicative
+indir.	indirect
+Industr.	industrial
+infin.	infinitive
+infl.	influenced
+Infl.	influence
+Innoc.	innocence, innocent
+Inorg.	inorganic
+Inq.	inquiry
+Inst.	institute, institution
+instr.	instrumental
+Instr.	instruction
+Internat.	international
+Interpr.	interpretation
+interrog.	interrogative
+Intro.	introduction
+Introd.	introduction, introductory
+Inv.	inventory, inventories
+Investig.	investigation
+Investm.	investment
+Invoc.	incovation
+irreg.	irregular(ly)
+Ital.	Italian
+Jahrb.	Jahrbuch
+Jan.	January
+Jap.	Japanese
+Jr. Junior
+Jrnl.	journal
+Jrnls.	journals
+Jul.	July
+Jun.	June
+Jurisd.	jurisdiction
+Justif.	justification
+Justific.	justification
+Lab.	laboratory
+Lanc.	Lancashire
+Lang.	language
+Langs.	languages
+Lat.	Latin
+Lect.	lecture(s)
+Lex.	lexicon
+Libr.	library
+lit.	literal(ly)
+Mach.	machinery, machine(s)
+Mag.	magazine
+Magn.	magnetism, magnetic
+Managem.	management
+Manch.	Manchester
+Manip.	manipulation
+Manuf.	manufacturing, manufacture(s)
+Mar.	March
+masc.	masculine
+Matt.	(in the Bible) Matthew
+Mech.	mechanics, mechanical
+med.	medieval
+Med.	medicine, medical
+Medit.	meditation
+Merc.	mercury
+Merch.	merchant(s)
+Metall.	metallurgy
+Metamorph.	metamorphosis
+Metaph.	metaphysics
+metaphor.	metaphorical(ly)
+Meteorol.	meteorology, meteorologic(al)
+Metrop.	metropolitan, metropolis
+Mex.	Mexican
+Mgmt.	management
+Microbiol.	microbiology
+Microsc.	microscopic(al)
+Min.	mineralogy
+Misc.	miscellaneous, miscellany
+Miscell.	miscellany
+mispr.	misprinted
+Morphol.	morphology
+Mr. mister
+Mrs. misteress
+Ms.	miss
+MS.	manuscript
+MSS.	manuscripts
+Mt.	mount(ain)
+Mtg.	meeting
+Mts.	mountains
+Munic.	municipal
+Mus.	music, musical
+Mus.	museum
+Myst.	mystery
+Myth.	mythology
+Mythol.	mythology
+Naut.	nautical
+Nav.	navigation
+Navig.	navigation
+N. Carolina	North Carolina
+N. Dakota	North Dakota
+N.E.	north-east, north-eastern
+No.	number
+nom.	nominative
+Non-conf.	nonconformist(s)
+Norw.	Norwegian
+Norweg.	Norwegian
+Notts.	Nottinghamshire
+Nov.	November
+Nucl.	nuclear
+Num.	Numbers
+N.Y.	New York
+N.Z.	New Zealand
+Obed.	obedience
+Obj.	object(s)
+obl.	oblique
+obs.	obsolete
+Observ.	observation(s)
+occas.	occasionally
+Occup.	occupation(al)
+Occurr.	occurrence
+Oceanogr.	oceanography, oceanographic(al)
+Oct.	October
+Off.	official, office
+Offic.	official
+Okla.	Oklahoma
+Ont.	Ontario
+Ophthalm.	ophthalmology
+Ophthalmol.	ophthalmology, ophtalmologic(al)
+opp.	opposed (to), the opposite (of)
+Opt.	optics
+Org.	organisation
+Orig.	original
+Ornith.	ornithology
+Ornithol.	ornithology, ornithologic(al)
+Orthogr.	orthography
+Oxf.	Oxford
+Parl.	parliament, parliamentary
+Pathol.	pathology, pathologic(al)
+perf.	perfect
+pers.	person(al)
+personif.	personified
+Pharmaceut.	pharmaceutical
+Pharmacol.	pharmacology, pharmacological
+Phil.	philosophy, philosophic(al)
+Philos.	philosophy, philosophic(al)
+Phoen.	Phoenician
+phonet.	phonetic(ally)
+phr.	phrase
+Phrenol.	phrenology
+Phys.	physiology
+Pict.	pictorial
+Pict.	picture(s)
+pl.	plural
+plur.	plural
+p.m.	after noon
+Pol.	politics, political
+Polit.	politics, political
+Polytechn.	polytechnic(al)
+Porc.	porcelain
+Port.	Portuguese
+poss.	possessive
+poss.	possible, possibly
+Posth.	posthumous(ly)
+Postm.	postmaster
+Pott.	pottery
+ppl.	participial
+Pract.	practical
+Pract.	practice
+prec.	preceding
+pred.	predicate
+predic.	predicate, predicative(ly)
+Predict.	prediction
+pref.	prefix
+Pref.	preface
+Preh.	prehistoric
+Prehist.	prehistory, prehistoric
+prep.	preposition(al)
+Prerog.	prerogative
+pres.	present
+Proc.	proceedings
+Prod.	product(s)
+Prof. Professer
+prof. Professer
+Prol.	prologue
+pron.	pronoun
+pron.	pronunciation
+pronunc.	pronunciation
+Pronunc.	pronunciation
+prop.	properly
+Prop.	property, properties
+propr.	proprietary
+prov.	proverb(ial)(ly)
+Prov.	proverb
+Prov.	(in the Bible) Proverbs
+Psych.	psychology
+Pt.	part
+Publ.	public
+Publ.	publication
+Purg.	purgatory
+Qld.	Queensland
+quot.	quotation
+quots.	quotations
+Radiol.	radiology
+R.A.F.	Royal Air Force
+R.C.	Roman Catholic(ism)
+redupl.	reduplicating
+Ref.	reference
+refl.	reflexive
+Refl.	reflection(s)
+Refus.	refusal
+Refut.	refutation
+reg.	regular
+Regist.	register
+Regr.	register
+rel.	related
+Rep.	report
+repr.	representative, representing
+Reprod.	reproduction, reproductive
+Rept.	report
+Repub.	republic
+Res.	research
+Resid.	residence, residential
+Ret.	return
+Retrosp.	retrospective
+Rev.	review
+Revol.	revolution
+Rhet.	rhetoric
+rhet.	rhetorical(ly)
+R.N.	Royal Navy
+Rom.	Roman
+Rom.	(in the Bible) Romans
+Sat.	Saturday
+Scand.	Scandinavia, Scandinavian
+S. Carolina	South Carolina
+Sch.	school
+Sci.	science(s), scientific
+Scot.	Scottish
+Sculpt.	sculpture
+S. Dakota	South Dakota
+s.e.	south-eastern (dialect)
+S.E.	south-east, south-eastern
+Seismol.	seismology
+Sept.	September
+Ser.	series
+Serm.	sermon(s)
+Sess.	session
+Settlem.	settlement
+Sev.	several
+Shakes.	Shakespeare
+Shaks.	Shakespeare
+Sheph.	shepherd
+Soc.	society
+Sociol.	sociology, sociological
+Som.	Somerset
+Sonn.	sonnet
+south.	southern (dialect)
+sp.	spelling
+Span.	Spanish
+spec.	specifically
+Spec.	special
+Spec.	specimen(s)
+Specif.	specification(s)
+Specim.	specimen(s)
+Spectrosc.	spectroscopy
+SS.	saints
+St.	Saint
+Stat.	statistical
+Statist.	statistical
+Stock Exch.	stock exchange
+str.	strong
+Stud.	studies
+subj.	subject
+subj.	subjunctive
+Subj.	subject(s)
+subjunct.	subjunctive
+subord.	subordinate
+subord. cl.	subordinate clause
+Subscr.	subscription
+Subscript.	subscription
+subseq.	subsequent(ly)
+subst.	substantive(ly)
+suff.	suffix
+Suff.	Suffolk
+superl.	superlative
+Suppl.	supplement, supplementary
+Supplic.	supplication(s)
+Suppress.	suppression
+Surg.	surgery, surgical
+s.w.	south-western (dialect)
+S.W.	south-west, south-western
+syll.	syllable
+Symmetr.	symmetrical
+Symp.	symposium
+Syst.	system
+Taxon.	taxonomy, taxonomic
+techn.	technical
+Techn.	technical
+Technol.	technology, technological
+Tel.	telegraph
+Telecomm.	telecommunications
+Telegr.	telegraph
+Telegr.	telegraphy, telegraphic(al)
+Teleph.	telephony, telephonic
+Teratol.	teratology
+Terminol.	terminology, terminological
+Terrestr.	terrestrial
+Textbk.	textbook
+Thes.	thesaurus
+Thess.	(in the Bible) Thessalonians
+Topogr.	topography, topographic(al)
+tr.	translation, translating
+Trad.	tradition, traditional
+Trag.	tragedy
+trans.	transitive
+Trans.	transaction(s)
+transf.	transferred sense
+transl.	translation, translating
+Transl.	translation
+Trav.	travel(s)
+Treas.	treasurer, treasury
+Treatm.	treatment
+Trib.	tribune
+Trig.	trigonometry
+Trigonom.	trigonometry
+Trop.	tropical
+Troub.	troublesome
+Troubl.	troublesome
+Typog.	typography
+Typogr.	typography
+U.K.	United Kingdom
+U.N.	United Nations
+Univ.	university
+Unoffic.	unofficial
+unstr.	unstressed
+Urin.	urinary
+U.S.	United States
+U.S.A.F.	United States Air Force
+U.S.S.R.	Union of Soviet Socialist Republics
+Va.	Virginia
+Vac.	vacation
+Valedict.	valediction
+var.	variant
+varr.	variants
+vars.	variants
+vb.	verb
+vbl.	verbal
+vbl.n.	verbal noun
+vbl. ns.	verbal nouns
+vbs.	verbs
+Veg.	vegetable
+Vertebr.	vertebrate
+Vet.	veterinary, veterinary science
+Vic.	Victoria
+Vict.	Victoria
+Vind.	vindication, vindicated
+Vindic.	vindication, vindicated
+Virg.	virgin(s)
+Virol.	virology
+Voc.	vocabulary
+Vocab.	vocabulary
+Vol.	volume
+Vulg.	vulgar
+Vulg.	Vulgate
+Warwicksh.	Warwickshire
+Westm.	Westminster
+W. Ind.	West Indies, West Indian
+W. Indies	West Indies
+Wis.	Wisconsin
+wk.	weak
+Wk.	week
+Wk.	work
+Wkly.	weekly
+Wks.	works
+Wonderf.	wonderful
+Worc.	Worcestershire
+Worcestersh.	Worcestershire
+Worcs.	Worcestershire
+Writ.	writing(s)
+Yorks.	Yorkshire
+Yorksh.	Yorkshire
+Yr.	year
+Yrs.	years
+Zech.	(in the Bible) Zechariah
+Zeitschr.	Zeitschrift
+Zeph.	(in the Bible) Zephaniah
+Zoogeogr.	zoogeography
+Zool.	zoology, zoological
