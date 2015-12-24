@@ -9,5 +9,9 @@ Eventhough, the process of automatically summarizing documents has been greatly 
 </ul>
 The methodology behind this tool is an attempt to couter all(and many more) of the aforementioned factors to the best of its efficacy.
 <br/><br/>
+<img src="https://raw.githubusercontent.com/arjundatt/Abstractor/master/abstrator/Capture1.PNG" width="850" height="500"/>
+<br/>
+<img src="https://raw.githubusercontent.com/arjundatt/Abstractor/master/abstrator/Capture2.PNG" width="850" height="500"/>
+<br/>
 <b>TIP</b> to use the tool: While copying the content to be summarized into the document-input window, try to remove irrelevant or unwanted content(like advertisments) from the input. Also, one ssould be careful in maintaining the document structure and style as of the original document. All such modifications might improve the results drastically.
 <br/><br/>
